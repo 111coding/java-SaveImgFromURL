@@ -41,10 +41,10 @@ public class TestApp {
 
 ```
 #### 3번 실행 시 콘솔 출력 내용
-![saveImg]](https://postfiles.pstatic.net/MjAxOTExMThfMTU2/MDAxNTc0MDA3MTM1MDUx.TUpAaE5H-kPHeozpuPBQdQmoE0INOEO2I8AveOncBIkg.Q0pba7m7hsiNJDeTuK-g7kNLO5zYhTfBBrSRgGAdZesg.PNG.halowd/image.png?type=w966)
+![saveImg](https://postfiles.pstatic.net/MjAxOTExMThfMTU2/MDAxNTc0MDA3MTM1MDUx.TUpAaE5H-kPHeozpuPBQdQmoE0INOEO2I8AveOncBIkg.Q0pba7m7hsiNJDeTuK-g7kNLO5zYhTfBBrSRgGAdZesg.PNG.halowd/image.png?type=w966)
 
 #### 3번 실행 시 저장폴더
-![saveImg]](https://postfiles.pstatic.net/MjAxOTExMThfMTQg/MDAxNTc0MDA1NDU3MzI3.BJA-KCi25Dy1Ox7SwImuGpO0_5bCswJwQXpBoqRZXmkg.cwWO6pwqZr0LjmqQD_CxRn0_NglGsb-YVDjNpE5QmCgg.PNG.halowd/image.png?type=w966)
+![saveImg](https://postfiles.pstatic.net/MjAxOTExMThfMTQg/MDAxNTc0MDA1NDU3MzI3.BJA-KCi25Dy1Ox7SwImuGpO0_5bCswJwQXpBoqRZXmkg.cwWO6pwqZr0LjmqQD_CxRn0_NglGsb-YVDjNpE5QmCgg.PNG.halowd/image.png?type=w966)
 
 
 ### 사용예제1(파일이름 지정)
@@ -79,8 +79,8 @@ public class TestApp {
 ```
 
 #### 3번 실행 시 콘솔 출력 내용
-![saveImg]](https://postfiles.pstatic.net/MjAxOTExMThfMzEg/MDAxNTc0MDA2OTg1NDY1.GjQNrqR8xk2MXS1NrWLWS3Fs_eeOcALhK3FNjhNjU1gg.-W_9usy-OVS-2jL42DYuORXaeiVwflFix_unlttCqbog.PNG.halowd/image.png?type=w966)
+![saveImg](https://postfiles.pstatic.net/MjAxOTExMThfMzEg/MDAxNTc0MDA2OTg1NDY1.GjQNrqR8xk2MXS1NrWLWS3Fs_eeOcALhK3FNjhNjU1gg.-W_9usy-OVS-2jL42DYuORXaeiVwflFix_unlttCqbog.PNG.halowd/image.png?type=w966)
 
 #### 3번 실행 시 저장 폴더
-![saveImg]](https://postfiles.pstatic.net/MjAxOTExMThfMjgx/MDAxNTc0MDA1NjIyOTY3.56mQzb0uIxpM7n4Npz-CcraS46Lxt6bNVjkM_un2Ef0g.sWcVR0QII6VLgwDrpbt4rOAWKECFrhpd_v05Hz35Kkog.PNG.halowd/image.png?type=w966)
+![saveImg](https://postfiles.pstatic.net/MjAxOTExMThfMjgx/MDAxNTc0MDA1NjIyOTY3.56mQzb0uIxpM7n4Npz-CcraS46Lxt6bNVjkM_un2Ef0g.sWcVR0QII6VLgwDrpbt4rOAWKECFrhpd_v05Hz35Kkog.PNG.halowd/image.png?type=w966)
 
